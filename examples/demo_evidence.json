@@ -1,0 +1,14 @@
+{
+  "input_image_hash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+  "matched_image_hash": "unavailable",
+  "matched_url": "https://instagram.com/p/SIMULATED/",
+  "platform": "Instagram",
+  "face_similarity": 0.8732,
+  "verification_threshold": 0.75,
+  "verification_status": "MATCH",
+  "timestamp": "2026-09-06T10:13:00.038157Z",
+  "pipeline_version": "1.0.0",
+  "reverse_search_method": "offline_test_simulation",
+  "candidate_count": 1,
+  "evidence_hash": "5f5ac54399d965088f28ac318c6b6c783c261b9d03932ab47bda664025d7e0e3"
+}

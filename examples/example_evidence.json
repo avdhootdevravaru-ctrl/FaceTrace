@@ -1,0 +1,16 @@
+{
+  "input_image_hash": "a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef1234567890",
+  "matched_image_hash": "unavailable",
+  "matched_url": "https://instagram.com/p/EXAMPLE123/",
+  "platform": "Instagram",
+  "face_similarity": 0.87,
+  "verification_threshold": 0.75,
+  "verification_status": "MATCH",
+  "timestamp": "2026-09-04T12:34:56.789Z",
+  "pipeline_version": "1.0.0",
+  "reverse_search_method": "serpapi",
+  "candidate_count": 3,
+  "record_id": null,
+  "blockchain_tx": null,
+  "evidence_hash": "8f31a7c9d4e5f67890abcdef1234567890abcdef1234567890abcdef1234567890e921"
+}
